@@ -1,0 +1,19 @@
+id_interaction,id_candidature,date_contact,type_interaction,notes
+1,502,2026-02-02,Refus par mail,Refus automatique
+2,503,2026-02-02,Refus par mail,Prérequis insuffisants
+3,504,2026-01-30,Appel RH,Attente retour pour entretien manager
+4,513,2026-01-23,Clôture offre,Offre retirée du site
+5,515,2026-01-30,Clôture offre,Offre retirée du site
+6,516,2026-02-01,Clôture offre,Offre retirée du site
+7,519,2026-01-30,Clôture offre,Offre retirée du site
+8,538,2026-01-23,Refus par mail,Refus automatique
+9,530,2026-02-04,Refus par mail,Refus automatique
+10,543,2026-02-02,Refus par mail,Refus automatique
+11,552,2026-01-17,Refus via plateforme,Refus automatique
+12,554,2026-01-30,Refus par mail,Refus automatique
+13,555,2026-01-23,Refus via plateforme,Refus automatique
+14,556,2026-01-11,Refus par mail,Refus automatique
+15,557,2026-01-23,Refus par mail,Refus automatique
+16,501,2026-02-05,Refus par mail,Refus automatique
+17,507,2026-02-05,Refus par mail,Refus automatique
+18,559,2026-02-05,Refus par mail,Refus automatique

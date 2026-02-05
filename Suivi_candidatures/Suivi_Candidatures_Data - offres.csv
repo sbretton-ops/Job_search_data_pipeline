@@ -1,0 +1,63 @@
+id_offre,id_entreprise,titre_poste,type_contrat,salaire_moyen,lien annonce
+101,1,Revenue Manager,CDI,52500,https://candidat.francetravail.fr/offres/selection/detail/7494293
+102,2,Data Analyst Junior,CDI,,https://www.linkedin.com/jobs/view/4364612133/?trackingId=&refId=&midToken=AQHZYM-1nYzuLQ&midSig=1L1wyXf64o9s81&trk=eml-email_jobs_application_rejected_01-applied_jobs-0-applied_job&trkEmail=eml-email_jobs_application_rejected_01-applied_jobs-0-applied_job-null-br8kdn~ml596ysp~9e-null-null&eid=br8kdn-ml596ysp-9e&otpToken=MTUwNDFlZTgxNTI5Y2JjNmIzMjQwNGVkNDExZWU3YjA4ZWM2ZDE0MDllYWM4NzYxNzBjMjAyNjc0YTVjNTlmMmY2ZGRkZmE1NGZkNmYwZTA1ZWJhZjhiMTA0YjU5NTYyNmUyYWQzNTIxMjVjYTZiZTAyYzExZiwxLDE%3D
+103,3,Analyste des paramètres enregistrés de vols,CDI,44000,https://www.linkedin.com/jobs/view/analyste-des-param%C3%A8tres-enregistr%C3%A9s-de-vol-f-h-air-france-klm-at-aerocontact-com-4367272405/?originalSubdomain=fr
+104,4,Analyst Pricing,CDI,35000,https://www.linkedin.com/jobs/view/4353523947/?refId=ae7d2f8e-d286-4b5d-b62d-04a46ad29f3e&trackingId=Q0RyCVlsQWS3EICWdCxUOA%3D%3D
+105,5,Market Data Analyst,CDI,,https://recrutement.natixis.com/job/market-data-analyst-f-h-business-finance-management?sType=Indeed_Sponsored
+106,5,Data Analyst  ,CDI,,https://recrutement.natixis.com/job/data-analyst-f-h-oversight-quality-controls?sType=Indeed_Sponsored
+107,6,Data Analyst,CDI,50000,https://app.beetween.com/WeaselWeb/p/#/apply/job/18agydgm9j9g/data-analyst-h-f
+108,7,Data Analyst,CDI,42700, https://www.linkedin.com/jobs/view/4365799616/?refId=daaadab6-b3b0-4924-b62d-3104d8e7cb4c&trackingId=cyHyurIMSAy9EzdM66URnw%3D%3D
+109,8,Consultant Power BI,CDI,36000,https://candidat.francetravail.fr/offres/recherche/emploirecherche/detail/203MYWT
+110,9,Data Analyst,CDI,40000,https://candidat.francetravail.fr/candidature/mescandidatures/357041780
+111,10,Data Analyst,CDI,40000,https://candidat.francetravail.fr/candidature/mescandidatures/357041890
+112,11,Data Analyst,CDI,34800,https://candidat.francetravail.fr/candidature/mescandidatures/357041953
+113,12,Data Analyst,CDI,,https://candidat.francetravail.fr/candidature/mescandidatures/354305226
+114,13,Yield Manager,CDI,45000,https://candidat.francetravail.fr/candidature/mescandidatures/357989929
+115,14,Sales Analyst,CDD,37000,https://candidat.francetravail.fr/candidature/mescandidatures/357042080
+116,15,Data Analyst,CDI,33600,https://candidat.francetravail.fr/candidature/mescandidatures/354305302
+117,16,Data Analyst,CDI,,https://www.linkedin.com/jobs/view/4357421702/?refId=ea3aa294-887f-4d27-820f-00e96b35dd8e&trackingId=pEJPSLt0Suq5tn48nBzj5A%3D%3D
+118,17,Data Analyst,CDI,,https://www.linkedin.com/jobs/view/4343764310/?refId=6bf6d9c6-2e11-42b0-9dc3-6a5bcb015b01&trackingId=cL2EZ59lTx2%2Bwt7H%2BEsFKw%3D%3D
+119,18,Data Analyst Power BI,CDI,,https://www.linkedin.com/jobs/view/4329609447/?refId=24bd8cf4-f7de-434f-84c8-ffec6c689352&trackingId=BH%2FrWnZ8QL%2B52gJhbccHHw%3D%3D
+120,18,Data Analyst Power BI,CDI,,https://www.linkedin.com/jobs/view/4367255066/?trackingId=eFRB6xsZTySgi6IsvW9GDQ%3D%3D&refId=E7jGw6oASBmZpRlpbNNTPw%3D%3D&midToken=AQHZYM-1nYzuLQ&midSig=0k8rLkvJ_N5c81&trk=eml-email_application_confirmation_with_nba_01-applied_jobs-0-jobcard_body_4367255066&trkEmail=eml-email_application_confirmation_with_nba_01-applied_jobs-0-jobcard_body_4367255066-null-br8kdn~ml15h5if~j0-null-null&eid=br8kdn-ml15h5if-j0&otpToken=MTUwNDFlZTgxNTI5Y2JjNmIzMjQwNGVkNDAxN2UwYmQ4Y2M5ZDA0MjkxYWM4ODYxNzBjMjAyNjc0YTVjNTlmMmY2ZGRkZmJhNmFjN2RlZWI3YjhmYzJiZTQ5YWFmYTI4OWE1NmJhMWI1ZjFiMDM3NjdmZmIwNywxLDE%3D
+121,19,Data Analyst BI,CDI,,https://www.linkedin.com/jobs/view/4329281217/?refId=9738c7e6-9126-40ba-b73a-513cefdcd39c&trackingId=6ze1A8rIRaWVzAOGWiRxSg%3D%3D
+122,20,Expert Power BI,CDI,55000,https://www.linkedin.com/jobs/view/4336033789/?refId=2f2ab304-f2bf-4003-b7ee-0d4cac0738b1&trackingId=17zjwdwhTDuF1M3NJ%2FZVCA%3D%3D
+123,21,Consultant Data Power BI,CDI,,https://www.linkedin.com/jobs/view/3621584441/?refId=340bf85e-a8a5-47e7-a6f3-9bb45cd7460b&trackingId=kZZj3fjpQfiYgqfFdReQsA%3D%3D
+124,22,Business Analyst,CDD,,https://www.linkedin.com/jobs/view/4350879118/?refId=908c90c3-a51b-41d9-b2b9-5e94cbbd59e0&trackingId=24vuABN%2BTkSl4pK1ps7oAQ%3D%3D
+125,23,Data Analyst,CDI,,https://www.linkedin.com/jobs/view/4353645315/?refId=4ef09198-7bd7-410e-9793-24ebc6ef828b&trackingId=25PY2ucPQpmfhleelplxKw%3D%3D
+126,24,Data Analyst,CDI,,https://www.linkedin.com/jobs/view/4344415180/?refId=675d4567-8fc2-4781-9766-e4427c6da884&trackingId=%2FPeJh4mDSPaBu9uv3iw28w%3D%3D
+127,25,Data Analyst,CDI,,https://www.linkedin.com/jobs/view/4356153425/?refId=078ce03a-5dd6-4297-83e3-cf9cdb766ae2&trackingId=OlahtIpOSl%2BbNc6u8SQOxg%3D%3D
+128,26,Business Analyst ,CDI,,https://www.linkedin.com/jobs/view/4325944342/?refId=ccf26fb3-2c0c-4507-ab2e-11fbc80068ad&trackingId=Zdu9GuR%2BR%2F2TSgG0nyA2Ig%3D%3D
+129,27,Data Analyst,CDI,,https://www.linkedin.com/jobs/view/4356750948/?refId=17c09644-560d-4b74-bb32-4c8cd78cf202&trackingId=85j9vMlhSUGB4zAZ7f8VUQ%3D%3D
+130,28,Data Analyst,CDI,,https://www.linkedin.com/jobs/view/4367151880/?refId=72c3b3ec-335d-4abe-9ac3-7732c594c916&trackingId=3n7dWZiiTuWHl55%2FcXDUvg%3D%3D
+131,29,Data Analyst,CDI,,https://www.welcometothejungle.com/fr/companies/happn/jobs/data-analyst-produit-h-f_paris_HAPPN_Y315Gy1
+132,30,Sales Operations Analyst,CDI,,https://www.linkedin.com/jobs/view/4355886645/?refId=a355feeb-c0da-4361-af4e-e300c312cb8a&trackingId=WK2fgmfST8mwu11MwSUZaA%3D%3D
+133,31,Digital Data Analyst,CDI,,https://www.linkedin.com/jobs/view/4366397082/?refId=0f3826e2-e8cf-493e-b16f-4893754986d9&trackingId=YPrPyFY%2FQrq3ExuWXJtGBw%3D%3D
+134,32,Sales Business Analyst,CDD,,https://www.linkedin.com/jobs/view/4351964926/?refId=118c85f5-d0aa-4e5a-82b1-757257e44f75&trackingId=N%2B0G09qXT1GjQqeToOwfGg%3D%3D
+135,33,Analyst Pricing,CDI,,https://www.linkedin.com/jobs/view/4362178561/?refId=c48e3b70-7c09-48a6-a874-9ae27d383538&trackingId=FdS0AafQS1Cb05Io9Fdkgw%3D%3D
+136,34,Business Analyst Data,CDI,,https://www.linkedin.com/jobs/view/4352131632/?refId=3afa20de-0a24-4632-9cd8-e41e79fd31fe&trackingId=tfJukF7sRBqkHfM1f3FgEA%3D%3D
+137,35,Data Analyst,CDI,,https://www.linkedin.com/jobs/view/4345020597/?refId=2cf67d17-5a2e-4283-a503-f5597c799afd&trackingId=3vRHsLNgQJiwpfHYgT%2FUDw%3D%3D
+138,36,Chef de projet BI,CDI,,https://www.linkedin.com/jobs/view/4350666403/?refId=c2279551-2d3b-41d9-b49f-9999ffcd6b16&trackingId=wqIktaDxRaer2HXhH34m5g%3D%3D
+139,37,Business Analyst,CDI,60000,https://www.linkedin.com/jobs/view/4362841063/?refId=3f94db14-234d-4bcf-a186-416130cc0ea3&trackingId=awfl0ktvQK6qUCYV872eew%3D%3D
+140,38,Data Analyst,CDI,,https://www.linkedin.com/jobs/view/4352730490/?refId=0e652be4-c198-4b9d-9630-922a1cb0733b&trackingId=NwX6wWzpRyKTZ7qjV1GUQA%3D%3D
+141,39,Master Data Analyst,CDI,,https://candidat.francetravail.fr/offres/recherche/detail/203LTPS?at_campaign=DSI&at_cmp_indicateur1=AbonnementOffres&at_cmp_indicateur2=mail&at_cmp_indicateur3=nouvelleOffre&
+142,40,Business Analyst,Interim,39000,https://candidat.francetravail.fr/offres/recherche/detail/203JMHP
+143,41,Data Analyst,CDI ,,https://www.linkedin.com/jobs/view/4358263329/?trackingId=PHVOgKxkObVwz%2BUDVTYYmw%3D%3D&refId=LhTgDo7Qah6KHSwbj3XpLg%3D%3D&midToken=AQHZYM-1nYzuLQ&midSig=0zzTksgOvuAI41&trk=eml-email_job_alert_digest_01-primary_job_list-0-jobcard_body_8257612154&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-jobcard_body_8257612154-null-br8kdn~mk43x0fd~mj-null-null&eid=br8kdn-mk43x0fd-mj&otpToken=MTUwNDFlZTgxNTI5Y2JjNmIzMjQwNGVkNDAxOWUwYmQ4YWM5ZDU0MjkwYWE4ODYxNzBjMjAyNjc0YTVjNTlmMmY2ZGRkZmJiMWFlZmUwZTM1MDgwZDU2NDAzNzg4ZTM0MDljYjFjY2ZiNmE3OGFmMWYwY2Y2NywxLDE%3D
+144,42,Business Analyst,CDI,,https://fr.indeed.com/viewjob?jk=0d3252b4b1203e4a&q=data+analyst&l=%C3%8Ele-de-France&tk=1jg48qmhmg1q8801&from=ja&alid=6964d2550f10d757dd95d74a&g1tAS=true&xpse=SoB767I3nUGELvzm4R0LbzkdCdPP&xfps=ba58d8a2-16c8-409a-b4ef-60d7ca0517da&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&rgtk=1jg48qmhmg1q8801&xkcb=SoB_67M3nEZlO6awRR0LbzkdCdPP
+145,43,Data Analyst,CDI,45000,https://www.apec.fr/candidat/mon-espace.html#/mes-candidatures/212052131
+146,44,Data Analyst,CDI,38500,https://www.apec.fr/candidat/mon-espace.html#/mes-candidatures/212052118/offre
+147,45,Data Analyst ,CDI,,https://www.apec.fr/candidat/mon-espace.html#/mes-candidatures/212775865/offre
+148,46,Data Analyst,CDI,44000,https://www.apec.fr/candidat/mon-espace.html#/mes-candidatures/212778869/offre
+149,47,Consultat Data Analyst,CDI,52500,https://www.apec.fr/candidat/mon-espace.html#/mes-candidatures/212052162
+150,48,Data Analyst,CDI,38500,https://www.apec.fr/candidat/mon-espace.html#/mes-candidatures/212706364/offre
+151,49,Data Analyst,CDI,,https://career5.successfactors.eu/portalcareer?career_ns=job_application&navBarLevel=JOB_MGMT&subNavBarLevel=JOB_APPLIED&fbja_action=fbja_viewApp&company=YRGROUPE&career_job_req_id=110895&fbja_appId=804459&st=0F0C2BD886E8C768E2CC7BC28FF0F000631CD563&_s.crb=8kgX5r22zMvSb8DBlTcVMhsPuDR%2B7vxawidhMV84FUo%3D#/ja
+152,50,Data Analyst Junior,CDI,,https://career5.successfactors.eu/portalcareer?career_ns=job_application&navBarLevel=JOB_MGMT&subNavBarLevel=JOB_APPLIED&fbja_action=fbja_viewApp&company=YRGROUPE&career_job_req_id=110924&fbja_appId=804312&st=1F95EAAEC0B3EDA8195A9518688BF4CDFEB12011&_s.crb=8kgX5r22zMvSb8DBlTcVM
+153,49,Business Analyst,CDI,,https://career5.successfactors.eu/portalcareer?career_ns=job_application&navBarLevel=JOB_MGMT&subNavBarLevel=JOB_APPLIED&fbja_action=fbja_viewApp&company=YRGROUPE&career_job_req_id=110945&fbja_appId=814389&st=37D63CFC94140ABE2776E1CFD2E51940224204C5&_s.crb=8kgX5r22zMvSb8DBlTcVMhsPuDR%2B7vxawidhMV84FUo%3D#/ja
+154,51,Data Analyst ,CDI,,
+155,52,Data Analyst,CDI,48000,https://app.kicklox.com/missions/4116a18d-b3bf-4429-b212-386ed690bc30
+156,53,Business Analyst,CDI,,https://www.linkedin.com/jobs/view/4255900272/?refId=4c7e15ad-9565-4885-858d-b4737dc3c864&trackingId=wtKSLNYPTQaQ1n0EvFTgXw%3D%3D
+157,54,E-commerce Analyst,CDI,,https://www.linkedin.com/jobs/search/?currentJobId=4349475687&f_C=436699&originToLandingJobPostings=4356659473%2C4349475687&trk=d_flagship3_company
+158,55,Business Analyst supply chain,CDI,,https://fr.indeed.com/viewjob?jk=63a11a019142886f&q=data+analyst&l=%C3%8Ele-de-France&tk=1jgl935ksiam4808&from=ja&alid=6964d2550f10d757dd95d74a&g1tAS=true&xpse=SoCp67I3nVcQUhwNoR0LbzkdCdPP&xfps=d6634513-189e-4ea4-839d-89c5225e9996&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&rgtk=1jgl935ksiam4808&xkcb=SoBV67M3nVaDHLgTrD0KbzkdCdPP
+159,56,Data Analyst,CDI,,https://www.linkedin.com/jobs/view/data-analyst-bi-at-gomind-4321303641/?originalSubdomain=fr
+160,57,Business Analyst,CDI,,https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178008574W?affinite=true&selectedIndex=1&page=0&includePartner=false
+161,58,Data Analyst Junior,CDI,27600,https://www.linkedin.com/jobs/view/4369245990/?refId=0030a7c2-b396-4089-b60f-6d1c09ae1b6d&trackingId=rf6cwZZnQauKRNrkcAxJFQ%3D%3D
+162,59,Data Analyst Offer & Revenue,CDI,,https://www.linkedin.com/jobs/view/4368200323/?refId=022e8239-c39e-4a29-b523-4c09def3f0d1&trackingId=dcwJC7diSriY4aj6r97nEg%3D%3D

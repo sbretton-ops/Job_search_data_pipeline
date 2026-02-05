@@ -1,0 +1,60 @@
+id_entreprise,nom,secteur,localisation,region,taille
+1,confidentiel ,hôtellerie - tourisme,paris,paris,Grand Groupe
+2,OCT Flow,service de conseil en environnement,courbevoie,île de france,TPE
+3,Air France,aéronautique,roissy,île de france,Grand Groupe
+4,Pierre & Vacances,hôtellerie - tourisme,paris,paris,Grand Groupe
+5,Natixis,finance,paris,paris,Grand Groupe
+6,Jems,conseil en technologies,paris,paris,Grand Groupe
+7,Enedis,énergie,puteaux,île de france,Grand Groupe
+8,Horisis conseil,conseil de gestion,paris,paris,Grand Groupe
+9,Hummink,ingénierie,paris,paris,PME
+10,confidentiel  ,e-commerce ,clichy,île de france,PME
+11,Selas pharmacie,commerce de détail,paris,paris,TPE
+12,Metro France,commerce de gros,nanterre,île de france,Grand Groupe
+13,confidentiel,hôtellerie - tourisme,paris,paris,PME
+14,Rand,commerce de détail,paris,paris,Grand Groupe
+15,DM Consulting,conseil en technologies,paris,paris,PME
+16,Edenred,services financiers,montrouge,île de france,Grand Groupe
+17,NG Travel,hôtellerie - tourisme,paris,paris,PME
+18,Whize,conseil en technologies,neuilly-sur-seine,île de france,PME
+19,Geopost,transports,issy-les-moulineaux,île de france,Grand Groupe
+20,Groupe Alliance,conseil en technologies,paris,paris,PME
+21,Aubay,conseil en technologies,paris,paris,Grand Groupe
+22,Taleo consulting,conseil en technologies,paris,paris,Grand Groupe
+23,Beelix,conseil en technologies,paris,paris,Grand Groupe
+24,TF1,audiovisuel,boulogne,île de france,Grand Groupe
+25,Visian,conseil en technologies,courbevoie,île de france,Grand Groupe
+26,Shiseido,commerce de détail,neuilly-sur-seine,île de france,PME
+27,Datatorii,conseil en technologies,paris,paris,PME
+28,Quantaflow,conseil en technologies,issy-les-moulineaux,île de france,PME
+29,Happn,application mobile,paris,paris,TPE
+30,Brevo,conseil en technologies,paris,paris,Grand Groupe
+31,Adopt,e-commerce ,paris,paris,PME
+32,Rabanne,commerce de détail,paris,paris,PME
+33,Corsair,aéronautique,rungis,île de france,Grand Groupe
+34,Synchrone Fr,conseil en technologies,paris,paris,Grand Groupe
+35,5 Degré,conseil en technologies,paris,paris,PME
+36,France billet,application mobile,ivry-sur-seine,île de france,PME
+37,Groupe Karavel,hôtellerie - tourisme,paris,paris,Grand Groupe
+38,Direct Assurance,assurances,suresnes,île de france,Grand Groupe
+39,Polène,commerce de détail,paris,paris,PME
+40,LHH,conseil en recrutement,paris,paris,PME
+41,Rotschild,finance,paris,paris,Grand Groupe
+42,Histoire d'Or,commerce de détail,paris,paris,PME
+43,Alten,conseil en technologies,paris,paris,PME
+44,Winsearch,conseil en technologies,paris,paris,TPE
+45,Groupama,assurances,paris,paris,Grand Groupe
+46,Geser Best,conseil en technologies,paris,paris,PME
+47,Datatorii,conseil en technologies,paris,paris,PME
+48,Yusen Logistics,transports,Tremblay-en-france,île de france,PME
+49,Petit Bateau,commerce de détail,issy-les-moulineaux,île de france,Grand Groupe
+50,Dr Pierre Ricaud,e-commerce ,issy-les-moulineaux,île de france,Grand Groupe
+51,Ubisoft,jeux videos,paris,paris,PME
+52,Kicklox,conseil en technologies,paris,paris,PME
+53,Havas DBI,conseil en technologies,paris,paris,PME
+54,Showroomprivé,e-commerce ,paris,paris,PME
+55,Sephora,commerce de détail,neuilly-sur-seine,île de france,Grand Groupe
+56,GoMind,conseil en technologies,paris,paris,PME
+57,Operam,conseil en technologies,paris,paris,PME
+58,Magnitude,conseil en technologies,puteaux,île de france,PME
+59,Papernest,conseil en technologies,paris,paris,Grand Groupe

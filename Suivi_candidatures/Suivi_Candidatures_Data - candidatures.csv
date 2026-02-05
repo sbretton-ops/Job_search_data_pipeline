@@ -1,0 +1,63 @@
+id_candidature,id_offre,date_postule,source_decouverte,canal_postulation,statut_actuel
+501,101,2026-02-02,France Travail,cabinet (AARH),Refus Implicite
+502,102,2026-01-20,LinkedIn,LinkedIn,Refus Implicite
+503,103,2026-02-02,LinkedIn,site entreprise,Refus Implicite
+504,104,2026-01-27,LinkedIn,site entreprise,Préselection téléphonique
+505,105,2026-02-02,Indeed,site entreprise,Envoyé
+506,106,2026-02-02,Indeed,site entreprise,Envoyé
+507,107,2026-02-03,LinkedIn,site entreprise,Refus Implicite
+508,108,2026-01-27,LinkedIn,site entreprise,Envoyé
+509,109,2026-02-03,France Travail,site entreprise,Envoyé
+510,110,2026-01-22,France Travail,France Travail,Envoyé
+511,111,2026-01-22,France Travail,France Travail,Envoyé
+512,112,2026-01-22,France Travail,France Travail,Envoyé
+513,113,2026-01-06,France Travail,France Travail,Offre clôturée (sans retour)
+514,114,2026-01-28,France Travail,France Travail,Envoyé
+515,115,2026-01-22,France Travail,France Travail,Offre clôturée (sans retour)
+516,116,2026-01-06,France Travail,France Travail,Offre clôturée (sans retour)
+517,117,2026-02-02,LinkedIn,LinkedIn,Envoyé
+518,118,2025-12-29,LinkedIn,LinkedIn,Envoyé
+519,119,2026-01-02,LinkedIn,LinkedIn,Offre clôturée (sans retour)
+520,120,2026-01-30,LinkedIn,LinkedIn,Envoyé
+521,121,2026-01-07,LinkedIn,LinkedIn,Envoyé
+522,122,2026-01-12,LinkedIn,LinkedIn,Envoyé
+523,123,2026-01-12,LinkedIn,LinkedIn,Envoyé
+524,124,2026-01-12,LinkedIn,LinkedIn,Envoyé
+525,125,2026-01-17,LinkedIn,LinkedIn,Envoyé
+526,126,2026-01-17,LinkedIn,LinkedIn,Envoyé
+527,127,2026-01-30,LinkedIn,LinkedIn,Envoyé
+528,128,2026-01-30,LinkedIn,site entreprise,Envoyé
+529,129,2026-01-30,LinkedIn,LinkedIn,Envoyé
+530,130,2026-01-29,LinkedIn,site entreprise,Refus Implicite
+531,131,2026-01-29,LinkedIn,Welcome to the jungle,Envoyé
+532,132,2026-01-27,LinkedIn,LinkedIn,Envoyé
+533,133,2026-01-28,LinkedIn,Fashionjobs,Envoyé
+534,134,2026-01-28,LinkedIn,site entreprise,Envoyé
+535,135,2026-01-24,LinkedIn,LinkedIn,Envoyé
+536,136,2026-01-23,LinkedIn,LinkedIn,Envoyé
+537,137,2026-01-23,LinkedIn,LinkedIn,Envoyé
+538,138,2026-01-22,LinkedIn,site entreprise,Refus Implicite
+539,139,2026-01-22,LinkedIn,site entreprise,Envoyé
+540,140,2026-01-20,LinkedIn,LinkedIn,Envoyé
+541,141,2026-02-04,France Travail,site entreprise,Envoyé
+542,142,2026-02-04,France Travail,LHH,Envoyé
+543,143,2026-01-07,LinkedIn,site entreprise,Refus Implicite
+544,144,2026-01-29,Indeed,site entreprise,Envoyé
+545,145,2026-01-06,Apec,Apec,Envoyé
+546,146,2026-01-06,Apec,Apec,Envoyé
+547,147,2026-02-02,Apec,Apec,Envoyé
+548,148,2026-02-02,Apec,Apec,Envoyé
+549,149,2026-01-06,Apec,Apec,Envoyé
+550,150,2026-01-29,Apec,Apec,Envoyé
+551,151,2025-12-30,LinkedIn,site entreprise,Envoyé
+552,152,2025-12-29,LinkedIn,site entreprise,Refus via plateforme
+553,153,2026-02-04,site entreprise,site entreprise,Envoyé
+554,154,2026-01-23,LinkedIn,site entreprise,Refus Implicite
+555,155,2026-01-19,LinkedIn,site entreprise,Refus via plateforme
+556,156,2026-01-05,LinkedIn,site entreprise,Refus Implicite
+557,157,2026-01-22,LinkedIn,site entreprise,Refus Implicite
+558,158,2026-02-04,Indeed,site entreprise,Envoyé
+559,159,2026-01-27,LinkedIn,site entreprise,Refus Implicite
+560,160,2026-02-05,Apec,Apec,Envoyé
+561,161,2026-02-05,LinkedIn,site entreprise,Envoyé
+562,162,2026-02-05,LinkedIn,site entreprise,Envoyé
