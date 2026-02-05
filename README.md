@@ -62,7 +62,7 @@ J'ai fait le choix de déporter l'intelligence du rapport vers la couche SQL via
 * **Volume d'activité :** Nombre total de candidatures envoyées (ex: 62).
 * **Réactivité Marché :** Délai moyen de réponse calculé via la fonction DAX `AVERAGEX` (ex: 9,94 jours).
 * **Conversion :** Suivi du tunnel de recrutement (Envoi ➔ Entretien).
-* **Analyse de Salaire :** Moyenne des prétentions salariales du marché cible (ex: 43,39K€).
+* **Analyse de Salaire :** Salaire annuel moyen proposé dans les descriptifs d'offres (ex: 42,67K€).
 
 ---
 
