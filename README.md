@@ -1,7 +1,7 @@
 # Pipeline d'Analyse & Suivi de Candidatures (SQL & BI)
 
 ## Présentation du Projet
-Plutôt que d'utiliser un simple tableau de bord, j'ai choisi de traiter ma propre recherche d'emploi comme un véritable projet Data. L'objectif est de centraliser l'ensemble de mes démarches, d'automatiser le flux d'informations et d'analyser mes performances pour piloter ma recherche avec la précision d'un outil de Business Intelligence professionnel.
+Plutôt que d'utiliser un simple tableau de bord, j'ai choisi de traiter ma propre recherche d'emploi comme un véritable projet Data. L'objectif est de centraliser l'ensemble de mes démarches, d'automatiser le flux d'informations et d'analyser mes performances pour piloter ma recherche avec la précision d'un outil de Business Intelligence professionnel. J'ai conçu et modélisé l'intégralité de la structure de données, incluant la création de 4 tables fondamentales : Offres, Candidatures, Entreprises et Interactions.
 
 ## Sommaire
 - [Pipeline d'Analyse \& Suivi de Candidatures (SQL \& BI)](#pipeline-danalyse--suivi-de-candidatures-sql--bi)
