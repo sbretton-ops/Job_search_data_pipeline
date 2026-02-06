@@ -58,3 +58,15 @@ id_entreprise,nom,secteur,localisation,region,taille
 57,Operam,conseil en technologies,paris,paris,PME
 58,Magnitude,conseil en technologies,puteaux,île de france,PME
 59,Papernest,conseil en technologies,paris,paris,Grand Groupe
+60,Solutions30,conseil en technologies,saint-denis,île de france,Grand Groupe
+61,Cerenity by Axis,hôtellerie - tourisme,levallois,île de france,PME
+62,Lagardère Travel retail,hôtellerie - tourisme,levallois,île de france,Grand Groupe
+63,Leclerc,commerce de détail,ivry-sur-seine,île de france,PME
+64,McDonald's,restauration rapide,Guyancourt,île de france,PME
+65,Disneyland,arts et spectacles,marne-la-vallée,île de france,Grand Groupe
+66,Gan Assurances,assurances,nanterre,île de france,Grand Groupe
+67,Total Energie,Industrie pétrolière,paris,paris,Grand Groupe
+68,Vroomly,Car tech,paris,paris,PME
+69,Intesport,commerce de détail,paris,paris,PME
+70,Scor,assurances,paris,paris,Grand Groupe
+71,Skiils,e-commerce ,paris,paris,PME

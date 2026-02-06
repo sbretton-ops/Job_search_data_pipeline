@@ -114,3 +114,29 @@ LEFT JOIN interactions i ON c.id_candidature = i.id_candidature;
 SELECT COUNT(categorie_poste) FROM vue_analyse_offres_completes
 WHERE categorie_poste = 'Sales Analyst';
 
+DROP VIEW IF EXISTS vue_analyse_offres_completes;
+
+CREATE VIEW vue_analyse_offres_completes AS
+SELECT o.id_offre, o.titre_poste, 
+    CASE
+        WHEN o.titre_poste LIKE '%Power BI%' OR o.titre_poste LIKE '%Reporting%' THEN 'Power BI Analyst'
+        WHEN o.titre_poste LIKE '%Data Analyst%' OR o.titre_poste LIKE '%Data Analyst Junior%' THEN 'Data Analyst'
+        WHEN o.titre_poste LIKE '%Business%' THEN 'Business Analyst'
+        WHEN o.titre_poste LIKE '%Sales%' OR o.titre_poste LIKE '%E-commerce%' THEN 'Sales Analyst'
+        WHEN o.titre_poste LIKE '%Pricing%' THEN 'Analyst Pricing'
+        WHEN o.titre_poste LIKE '%Yield%' OR o.titre_poste LIKE '%Revenue%' THEN 'Yield Manager'
+        ELSE 'Autres'
+    END AS categorie_poste,
+    o.salaire_moyen, o.type_contrat, c.id_candidature, c.statut_actuel, c.source_decouverte, c.canal_postulation,e.id_entreprise,e.secteur, i.type_interaction
+FROM offres o
+LEFT JOIN entreprises e ON o.id_entreprise = e.id_entreprise
+LEFT JOIN candidatures c ON o.id_offre = c.id_offre
+LEFT JOIN interactions i ON c.id_candidature = i.id_candidature;
+
+WITH categorie AS (
+    SELECT 
+        o.id_offre, o.titre_poste, o.categorie_poste
+    FROM vue_analyse_offres_completes o
+)
+SELECT * FROM categorie
+WHERE categorie_poste = 'Power BI Analyst';
