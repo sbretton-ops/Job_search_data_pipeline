@@ -1,15 +1,15 @@
 id_candidature,id_offre,date_postule,source_decouverte,canal_postulation,statut_actuel
-501,101,2026-02-02,France Travail,cabinet (AARH),Refus Implicite
+501,101,2026-02-02,France Travail,cabinet recrutement,Refus Implicite
 502,102,2026-01-20,LinkedIn,LinkedIn,Refus Implicite
 503,103,2026-02-02,LinkedIn,site entreprise,Refus Implicite
 504,104,2026-01-27,LinkedIn,site entreprise,Préselection téléphonique
-505,105,2026-02-02,Indeed,site entreprise,Envoyé
+505,105,2026-02-02,Indeed,site entreprise,Refus Implicite
 506,106,2026-02-02,Indeed,site entreprise,Envoyé
 507,107,2026-02-03,LinkedIn,site entreprise,Refus Implicite
 508,108,2026-01-27,LinkedIn,site entreprise,Envoyé
 509,109,2026-02-03,France Travail,site entreprise,Envoyé
 510,110,2026-01-22,France Travail,France Travail,Envoyé
-511,111,2026-01-22,France Travail,France Travail,Envoyé
+511,111,2026-01-22,France Travail,France Travail,Offre clôturée (sans retour)
 512,112,2026-01-22,France Travail,France Travail,Envoyé
 513,113,2026-01-06,France Travail,France Travail,Offre clôturée (sans retour)
 514,114,2026-01-28,France Travail,France Travail,Envoyé
@@ -29,7 +29,7 @@ id_candidature,id_offre,date_postule,source_decouverte,canal_postulation,statut_
 528,128,2026-01-30,LinkedIn,site entreprise,Envoyé
 529,129,2026-01-30,LinkedIn,LinkedIn,Envoyé
 530,130,2026-01-29,LinkedIn,site entreprise,Refus Implicite
-531,131,2026-01-29,LinkedIn,Welcome to the jungle,Envoyé
+531,131,2026-01-29,LinkedIn,Welcome to the jungle,Offre clôturée (sans retour)
 532,132,2026-01-27,LinkedIn,LinkedIn,Envoyé
 533,133,2026-01-28,LinkedIn,Fashionjobs,Envoyé
 534,134,2026-01-28,LinkedIn,site entreprise,Envoyé
@@ -39,14 +39,14 @@ id_candidature,id_offre,date_postule,source_decouverte,canal_postulation,statut_
 538,138,2026-01-22,LinkedIn,site entreprise,Refus Implicite
 539,139,2026-01-22,LinkedIn,site entreprise,Envoyé
 540,140,2026-01-20,LinkedIn,LinkedIn,Envoyé
-541,141,2026-02-04,France Travail,site entreprise,Envoyé
-542,142,2026-02-04,France Travail,LHH,Envoyé
+541,141,2026-02-04,France Travail,site entreprise,Refus Implicite
+542,142,2026-02-04,France Travail,cabinet recrutement,Envoyé
 543,143,2026-01-07,LinkedIn,site entreprise,Refus Implicite
 544,144,2026-01-29,Indeed,site entreprise,Envoyé
 545,145,2026-01-06,Apec,Apec,Envoyé
 546,146,2026-01-06,Apec,Apec,Envoyé
-547,147,2026-02-02,Apec,Apec,Envoyé
-548,148,2026-02-02,Apec,Apec,Envoyé
+547,147,2026-02-02,Apec,Apec,Refus Implicite
+548,148,2026-02-02,Apec,Apec,Refus Implicite
 549,149,2026-01-06,Apec,Apec,Envoyé
 550,150,2026-01-29,Apec,Apec,Envoyé
 551,151,2025-12-30,LinkedIn,site entreprise,Envoyé
@@ -62,14 +62,37 @@ id_candidature,id_offre,date_postule,source_decouverte,canal_postulation,statut_
 561,161,2026-02-05,LinkedIn,site entreprise,Envoyé
 562,162,2026-02-05,LinkedIn,site entreprise,Envoyé
 563,163,2026-02-05,LinkedIn,site entreprise,Envoyé
-564,164,2026-02-06,LinkedIn,LinkedIn,Envoyé
+564,164,2026-02-06,LinkedIn,LinkedIn,1er entretien
 565,165,2026-02-06,LinkedIn,LinkedIn,Envoyé
 566,166,2026-02-06,LinkedIn,site entreprise,Envoyé
 567,167,2026-02-06,LinkedIn,site entreprise,Envoyé
-568,168,2026-02-06,LinkedIn,site entreprise,Envoyé
+568,168,2026-02-06,LinkedIn,site entreprise,Refus Implicite
 569,169,2026-02-02,LinkedIn,site entreprise,Refus Implicite
 570,170,2026-02-06,LinkedIn,site entreprise,Envoyé
 571,171,2026-02-06,Collective Work,Collective Work,Envoyé
 572,172,2026-01-30,LinkedIn,site entreprise,Refus Implicite
 573,173,2026-01-27,LinkedIn,site entreprise,Envoyé
 574,174,2026-01-23,Collective Work,Collective Work,Envoyé
+575,175,2026-02-07,LinkedIn,site entreprise,Envoyé
+576,176,2026-02-07,site entreprise,site entreprise,Envoyé
+577,177,2026-02-07,LinkedIn,Welcome to the jungle,Refus Implicite
+578,178,2026-02-07,Welcome to the jungle,Welcome to the jungle,Envoyé
+579,179,2026-02-07,France Travail,France Travail,Envoyé
+580,180,2026-02-07,LinkedIn,site entreprise,Envoyé
+581,181,2026-02-07,LinkedIn,site entreprise,Envoyé
+582,182,2026-02-08,LinkedIn,site entreprise,Refus Implicite
+583,183,2026-02-08,LinkedIn,site entreprise,Refus Implicite
+584,184,2026-02-09,FashionJobs,site entreprise,Refus Implicite
+585,185,2026-02-09,LinkedIn,LinkedIn,Envoyé
+586,186,2026-02-09,Hellowork,site entreprise,Envoyé
+587,187,2026-02-09,LinkedIn,site entreprise,Envoyé
+588,188,2026-02-10,LinkedIn,LinkedIn,Envoyé
+589,189,2026-02-10,LinkedIn,LinkedIn,Refus Implicite
+590,190,2026-02-10,LinkedIn,site entreprise,Envoyé
+591,191,2026-02-10,LinkedIn,site entreprise,Envoyé
+592,192,2026-02-11,Hellowork,Hellowork,Envoyé
+593,193,2026-02-13,Indeed,Indeed,Envoyé
+594,194,2026-02-15,LinkedIn,site entreprise,Envoyé
+595,195,2026-02-15,LinkedIn,Welcome to the jungle,Envoyé
+596,196,2026-02-15,LinkedIn,site entreprise,Envoyé
+597,197,2026-02-15,LinkedIn,site entreprise,Envoyé
