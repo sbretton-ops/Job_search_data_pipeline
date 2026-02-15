@@ -8,10 +8,10 @@ DELETE FROM interactions;
 .mode csv
 
 -- 3. Importation des données depuis les fichiers CSV SANS la ligne d en-tête
-.import --skip 1 "Suivi_Candidatures_Data - entreprises.csv" entreprises
-.import --skip 1 "Suivi_Candidatures_Data - offres.csv" offres
-.import --skip 1 "Suivi_Candidatures_Data - candidatures.csv" candidatures
-.import --skip 1 "Suivi_Candidatures_Data - interactions.csv" interactions
+.import --skip 1 "Data/Suivi_Candidatures_Data - entreprises.csv" entreprises
+.import --skip 1 "Data/Suivi_Candidatures_Data - offres.csv" offres
+.import --skip 1 "Data/Suivi_Candidatures_Data - candidatures.csv" candidatures
+.import --skip 1 "Data/.Suivi_Candidatures_Data - interactions.csv" interactions
 
 -- 4. Vérification du nombre de lignes importées et de la cohérence
 SELECT 'Entreprises:' as Table_Name, COUNT(*) FROM entreprises
